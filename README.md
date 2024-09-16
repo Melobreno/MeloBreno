@@ -3,7 +3,7 @@
 
 Olá, Tudo bem ?! 
 
-👦Me chamo Breno Igor, tenho 22 anos.  
+👦Me chamo Breno Igor, tenho 23 anos.  
 🖥️Formado em Técnico de Análise e desenvolvimento de sistemas  
 🛫Formado em Gestão de Turismo  
 🎮Gosto muito de jogos (embora eu não seja um dos players mais habilidosos 🤡...)
