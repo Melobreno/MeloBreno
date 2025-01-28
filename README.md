@@ -18,7 +18,7 @@ Atualmente estou participando de um projeto de tecnologia chamado Start, onde te
 
 ---
 **Habilidades:**
-* **Tecnologias:** JavaScript, TypeScript, NodeJs
-* **Frameworks:** React
+* **Tecnologias:** Java, JavaScript, TypeScript, NodeJs
+* **Frameworks:** Springboot, React
 * **Ferramentas:** Git
 
