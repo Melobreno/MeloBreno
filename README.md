@@ -1,14 +1,10 @@
 # Breno Melo
-**Web development student**
+**Software Engineering**
 
 Olá, Tudo bem ?! 
 
-👦Me chamo Breno Igor, tenho 23 anos.  
-🖥️Formado em Técnico de Análise e desenvolvimento de sistemas  
-🛫Formado em Gestão de Turismo  
-🎮Gosto muito de jogos (embora eu não seja um dos players mais habilidosos 🤡...)
-
-Atualmente estou participando de um projeto de tecnologia chamado Start, onde tem como objetivo capacitar, formar e conectar jovens. Estou seguindo a trilha de Front-End, onde tenho contato com JavaScript, Nodejs, React, e mais.
+Atualmente, atuo como desenvolvedor com foco em tecnologias Backend. 
+Sou formado como Técnico em Desenvolvimento de Sistemas e curso atualmente ensino Superior na mesma área, sempre em busca de aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e escaláveis.
 
 <div>
   <a href="https://www.linkedin.com/in/melobreno/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -19,6 +15,7 @@ Atualmente estou participando de um projeto de tecnologia chamado Start, onde te
 ---
 **Habilidades:**
 * **Tecnologias:** Java, JavaScript, TypeScript, NodeJs
-* **Frameworks:** Springboot, React
+* **Banco de Dados:** SQL (MySql, Oracle Data Base | PL/SQL)
+* **Frameworks:** Spring (Boot, Batch, Security, Data), React
 * **Ferramentas:** Git
 
